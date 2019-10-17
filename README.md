@@ -18,5 +18,8 @@ Comparison of different methods for landmark pixel classification. The methods t
 - Spectral clutering-based classifier
 - Convolutional Neural Network
 
-![Alt text](img/pines.png?raw=true "Pine tree dataset classification using different methods")
+![Alt text](img/pines.png?raw=true "")
+![Alt text](img/gmm.png?raw=true "")
+![Alt text](img/svm.png?raw=true "")
+![Alt text](img/nn.png?raw=true "")
 
